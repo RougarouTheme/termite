@@ -1,0 +1,92 @@
+[options]
+allow_bold = true
+# audible_bell = false
+# clickable_url = true
+# dynamic_title = true
+font = Meslo LGS Regular 10
+# fullscreen = true
+geometry = 730x420
+icon_name = terminal
+# mouse_autohide = false
+# scroll_on_output = false
+# scroll_on_keystroke = true
+# Length of the scrollback buffer, 0 disabled the scrollback buffer
+# and setting it to a negative value means "infinite scrollback"
+scrollback_lines = 10000
+# search_wrap = true
+# urgent_on_bell = true
+hyperlinks = false
+
+# $BROWSER is used by default if set, with xdg-open as a fallback
+# browser = xdg-open
+
+# "system", "on" or "off"
+# cursor_blink = system
+
+# "block", "underline" or "ibeam"
+cursor_shape = block
+
+# Hide links that are no longer valid in url select overlay mode
+# filter_unmatched_urls = true
+
+# Emit escape sequences for extra modified keys
+# modify_other_keys = false
+
+# set size hints for the window
+#size_hints = false
+
+# "off", "left" or "right"
+scrollbar = right
+
+[colors]
+
+# special
+foreground      = #dfdfdf
+foreground_bold = #dfdfdf
+cursor          = #dfdfdf
+background      = #232332
+
+# black
+color0  = #232328
+color8  = #28283c
+
+# red
+color1  = #f94757
+color9  = #f45b69
+
+# green
+color2  = #00b159
+color10 = #28b56f
+
+# yellow
+color3  = #fcb928
+color11 = #f9c34f
+
+# blue
+color4  = #1882dc
+color12 = #308bd8
+
+# magenta
+color5  = #7474b3
+color13 = #7474b3
+
+# cyan
+color6  = #33a5db
+color14 = #5fb5de
+
+# white
+color7  = #8c7676
+color15 = #dfdfdf
+
+[hints]
+#font = Monospace 12
+#foreground = #dcdccc
+#background = #3f3f3f
+#active_foreground = #e68080
+#active_background = #3f3f3f
+#padding = 2
+#border = #3f3f3f
+#border_width = 0.5
+#roundness = 2.0
+
+# vim: ft=dosini cms=#%s
