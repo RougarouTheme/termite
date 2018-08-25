@@ -6,4 +6,4 @@ A dark theme for termite terminal
 
 ## Install
 > On screenshot the [rougarou-zsh](https://github.com/RougarouTheme/rougarou-zsh) theme installed.
-* Download and move `config` file to your `~/.config/termite/` folder if you have no config file or copy `[color]` section from downloaded file into existed `config` file.
+* Download and move `config` file to your `~/.config/termite/` folder if you have no config file or copy `[colors]` section from downloaded file into existed `config` file.
